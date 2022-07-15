@@ -9,7 +9,7 @@
 # Software Dependency:
 #    	   R version >= 3.6, ASCAT 2.4	 
 # ------------------------------------------------------------------
-##for seg.mean and BAF.mean calc
+
 
 .libPaths(c( "~/R/x86_64-pc-linux-gnu-library/3.6", .libPaths() ) )
 args <- commandArgs(trailingOnly = TRUE)
