@@ -1,6 +1,6 @@
 # ------------------------------------------------------------------
 #          Title: tum_normal_matched.R
-#          Description: Computes HRD scores using ASCAT output
+#          Description: Computes HRD scores using ASCAT output (Timms et al. Breast Cancer Research (2014) 16:475)
 #          Input files: 
 #          SNP array data (700K array)
 #          
