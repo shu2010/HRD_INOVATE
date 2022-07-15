@@ -1,7 +1,7 @@
 # HRD_INOVATE
 ## Prediction of HRD status using SNP array data ##
 
-Step 1. Compute ASCAT (version 2.5) scores
+Step 1. Compute ASCAT (version 2.4) scores
 
 Step 2. Use ASCAT segmentation profile to estimate segmentation mean
 
