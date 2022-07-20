@@ -11,7 +11,7 @@
 # ------------------------------------------------------------------
 
 
-.libPaths(c( "~/R/x86_64-pc-linux-gnu-library/3.6", .libPaths() ) )
+#.libPaths(c( "~/R/x86_64-pc-linux-gnu-library/3.6", .libPaths() ) )
 args <- commandArgs(trailingOnly = TRUE)
 arg_file <- args[1]
 
