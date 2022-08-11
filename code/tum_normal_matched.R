@@ -7,7 +7,9 @@
 #          author contact: swetansu@gmail.com
 #
 # Software Dependency:
-#    	   R version >= 3.6, ASCAT 2.4	 
+#    	   R version >= 3.6, ASCAT 2.5.2	 
+# 
+# For batches after 2020
 # ------------------------------------------------------------------
 
 
